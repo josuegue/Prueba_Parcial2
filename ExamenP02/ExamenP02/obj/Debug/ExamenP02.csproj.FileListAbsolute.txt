@@ -1,0 +1,10 @@
+C:\Users\Flor\source\repos\ExamenP02\ExamenP02\bin\Debug\ExamenP02.exe.config
+C:\Users\Flor\source\repos\ExamenP02\ExamenP02\bin\Debug\ExamenP02.exe
+C:\Users\Flor\source\repos\ExamenP02\ExamenP02\bin\Debug\ExamenP02.pdb
+C:\Users\Flor\source\repos\ExamenP02\ExamenP02\obj\Debug\ExamenP02.csprojAssemblyReference.cache
+C:\Users\Flor\source\repos\ExamenP02\ExamenP02\obj\Debug\ExamenP02.Form1.resources
+C:\Users\Flor\source\repos\ExamenP02\ExamenP02\obj\Debug\ExamenP02.Properties.Resources.resources
+C:\Users\Flor\source\repos\ExamenP02\ExamenP02\obj\Debug\ExamenP02.csproj.GenerateResource.cache
+C:\Users\Flor\source\repos\ExamenP02\ExamenP02\obj\Debug\ExamenP02.csproj.CoreCompileInputs.cache
+C:\Users\Flor\source\repos\ExamenP02\ExamenP02\obj\Debug\ExamenP02.exe
+C:\Users\Flor\source\repos\ExamenP02\ExamenP02\obj\Debug\ExamenP02.pdb
